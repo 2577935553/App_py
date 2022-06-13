@@ -1,0 +1,121 @@
+.QHBoxLayout{
+background: #66cc66;
+}
+.QLabel{
+
+}
+#label_18{
+    background: url("logo.png");
+}
+#widget{
+    background-color: rgb(0,128,128);
+}
+#pushButton_2{
+    border: 2px #66cc66 ;
+    border-radius: 8px;
+    background-color: white;
+    /*text-align: center;*/
+    color: rgb(0,192,167);
+}
+#pushButton{
+    background-color: rgb(2,82,79);
+    border-radius: 8px;
+    /*text-align: center;*/
+    color: white;
+}
+#btn_UseInstruction{
+    background:url("UseInstruction.png");
+    border-radius: 10px;
+}
+#btn_UserCall{
+    background: url("UserCall.png");
+}
+#btn_qkAdd{
+    background-color: rgb(241,241,241);
+    /*text-align: center;*/
+    color: darkgreen;
+
+}
+#btn_qkSubb{
+    background-color: rgb(241,241,241);
+    /*text-align: center;*/
+    color: darkgreen;
+}
+#label_qk{
+    background-color: rgb(0,192,167);
+    /*text-align: center;*/
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 10px;
+    border-color: rgb(0,192,167) ;
+}
+#btn_AboutUs{
+    /*text-align: center;*/
+    color: dimgray;
+}
+#btn_loadLoc{
+    background-color: #66cc66;
+    color: white;
+}
+#label_2{
+    background-color: white;
+    font-size: 30px;
+    border-radius: 8px;
+    color: black;
+}
+#label_11{
+    background-color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    color: black;
+
+}
+#label_19{
+    background-color: white;
+    font-size: 50px;
+    color:crimson;
+    border-radius: 8px;
+}
+#label_14{
+    background-color:white ;
+    font-size: 20px;
+    border-radius: 8px;
+}
+#label_15{
+    background-color: dimgray;
+    border-radius: 8px;
+
+
+}
+#label_16{
+    background-color: gray;
+    border-radius: 8px;
+}
+#label_UserInfo{
+    text-overline-color: white;
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#label_5{
+    background-color: #66cc66;
+    color: white;
+}
+#wgt_video{
+    background: darkgreen;
+}
+#wgt_video1{
+    background: darkgreen;
+}
+#label{
+    background-color: darkgreen;
+}
+#label_6{
+    background-color: darkgreen;
+}
+#label_4{
+    font-size: 15px;
+    font-weight: bold;
+}
+
